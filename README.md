@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# CodingCombat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Prerequisites:
+* Install git in your machine.
+* Have basic command line experiance.
+* have knowledge of basic Javascript, HTML, CSS
 
-## Available Scripts
+## Resources to follow to contribute to this project or any open source project
 
-In the project directory, you can run:
+1. Read this [guide](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) to open-source contribution.
 
-### `yarn start`
+2. To add the necessary contribution that will get your Pull Request accepeted refer [CONTRIBUTING.md](https://github.com/wasim7raja10/Codeforces-tracker/blob/main/CONTRIBUTING.md) file.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Rules and Regulations
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Pull requests can be submitted to any opted-in repository on GitHub or GitLab
 
-### `yarn test`
+2. The pull request must contain commits you made yourself.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 
-### `yarn build`
+4. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+6. This year, the first 50,000 participants can earn a T-shirt.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Examples of low quailty contributions
 
-### `yarn eject`
++ Pull requests that are automated e.g. scripted opening pull requests to remove whitespace / fix typos / optimize images.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
++ Pull requests that are disruptive e.g. taking someone else's branch/commits and making a pull request.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
++ Pull requests that are regarded by a project maintainer as a hindrance vs. helping.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
++ Something that's clearly an attempt to simply +1 your pull request count for October.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
++ Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
