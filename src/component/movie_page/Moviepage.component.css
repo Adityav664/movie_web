@@ -1,0 +1,24 @@
+.movie-page{
+    display: flex;
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.head{
+    color: red;
+}
+.poster{
+    padding: 0;
+    margin: 0;
+}
+
+.name{
+    color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.desc{
+    display: inline;
+}

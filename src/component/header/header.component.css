@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between  ;
+    background-image: linear-gradient(to right, #5c16c5,#0CECDD);
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.tail{
+    display: flex;
+    margin: 0px  50px;
+}
+.header-img{
+    width: 60px;
+    color: white;
+    margin: 0px 70px;
+}
+p{
+    width: 150px;
+    margin: 15px 10px;
+    color: white;
+    font-weight: 500;
+    font-size: 1.3rem;
+}

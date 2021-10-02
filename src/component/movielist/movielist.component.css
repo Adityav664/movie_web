@@ -1,0 +1,10 @@
+.movielist{
+    background-color: white;
+    width: 85vw;
+    margin-left:80px;
+    margin-right: 40px;
+    padding-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 30px;
+}

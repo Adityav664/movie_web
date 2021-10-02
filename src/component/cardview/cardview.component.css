@@ -1,0 +1,13 @@
+.txt{
+    font-size: 30px;
+}
+
+.imgflip{
+    width: 400px;
+    height: 400px;
+}
+
+
+txt img{
+    opacity: 0.2;
+}
