@@ -16,9 +16,13 @@
     margin: 0px 70px;
 }
 p{
-    width: 150px;
-    margin: 15px 10px;
+   
+    margin: 15px 2rem;
     color: white;
     font-weight: 500;
     font-size: 1.3rem;
+    cursor: pointer;
+}
+p:hover{
+    border-bottom: 3px solid  white;
 }
