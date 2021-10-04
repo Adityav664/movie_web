@@ -25,9 +25,12 @@ const ImageSlider = (props) => {
     //     <img className="imgslider" src={img[9]} alt="10" />,];
     return (
         // <Carousel className slides={slides} autoplay={true} interval={3000}/>
+        <div>
         <img src={"https://www.wallpaperflare.com/static/1017/842/358/tv-banshee-breaking-bad-vikings-wallpaper.jpg"}
-            style={{width:'100%', height:'800px'}}
+            style={{width:'100%', height:'28rem',filter:'brightness(0.45)'}}
          />
+         <div className="ttl">Movie Web</div>
+         </div>
     );
 }
 

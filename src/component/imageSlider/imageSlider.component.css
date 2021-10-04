@@ -1,9 +1,19 @@
 .imgslider{
-    height: 600px;
+    height: 28rem;
     width: 100%;
+    filter: brightness(0.65);
 }
 .react-3d-carousel{
     background-color: white;
     margin: 0;
     padding: 0;
+}
+
+.ttl{
+    position: absolute;
+    top: 10rem;
+    margin: 0 auto;
+    width: 100%;
+    color: white;
+    font-size: 8rem;
 }
