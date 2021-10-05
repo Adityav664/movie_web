@@ -5,6 +5,7 @@ import Home from './component/Home/Home.component';
 import Moviepage from './component/movie_page/Moviepage.component';
 import { Route, BrowserRouter as Router } from "react-router-dom";
 import Movielist from './component/movielist/movielist.componrnt';
+import Signup from './component/signup/Signup'
 import Login from './component/Login/login';
 class App extends React.Component {
   constructor() {
@@ -29,6 +30,7 @@ class App extends React.Component {
             <Route exact path="/" render={()=><Home images={this.state.movie} />} />
             <Route path="/movie" component={Moviepage} />
             <Route path="/movielist" component={Movielist} />
+            <Route path="/signup" component={Signup} />
             <Route path="/login" component={Login} />
           </Router>
           : null}
