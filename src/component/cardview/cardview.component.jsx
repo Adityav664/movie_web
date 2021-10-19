@@ -12,7 +12,6 @@ const CardView = (props) => {
                     pathname:'/movie', state:{data:props.data}
                 }}/>
             }>
-            {/* <img className="imgflip" src={`https://image.tmdb.org/t/p/original/${props.data.poster_path}`} alt="" /> */}
             <ReactCardFlipper
             width="450px"
             height="450px"
@@ -21,7 +20,6 @@ const CardView = (props) => {
                     <img className="imgflip" src={`https://image.tmdb.org/t/p/original/${props.data.poster_path}`} alt="" />
                 </div>
                 <div className="txt">
-                    {/* <img className="imgflip" src={`https://image.tmdb.org/t/p/original/${props.data.poster_path}`} alt="" /> */}
                     {props.data.overview}   
                 </div>
             </ReactCardFlipper>

@@ -24,7 +24,6 @@ class Moviepage extends React.Component {
                 </div>
                 <div className="name">
                 {(this.state.videodata)?console.log(this.state.videodata.results.length):null}
-                    {/* <p className="desc">{this.props.location.state.overview}</p> */}
                     {(this.state.videodata)?
                     (this.state.videodata.results.length)?
                     <ReactPlayer
